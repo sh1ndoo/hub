@@ -1,8 +1,0 @@
-[[./Itertools|Itertools]]
-[[./Logging|Logging]]
-[[./Math|Math]]
-[[./Pprint|Pprint]]
-[[./Random|Random]]
-[[./Requests|Requests]]
-[[./Sys|Sys]]
-[[./Tkinter|Tkinter]]
